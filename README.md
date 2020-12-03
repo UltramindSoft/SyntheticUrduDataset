@@ -6,6 +6,8 @@ Initially In our research-paper-experiments, five-set of datasets, containing 4.
 --->>> The Given dataset here is most similar to dataset we used in our exmperiments. The images with its name contain annotation both in terms of Urdu-text, its location and orientation information. From given annotation, sub-datasets for given tasks like Urdu-Text-detection, Urdu-Text-orientation-prediction and Urdu-Text-ligature-recognition can be performed.
 
 
+--->>> Realworld Urdu outdoor-text dataset "UrText" will be shared soon ...
+
 
 !
 !
