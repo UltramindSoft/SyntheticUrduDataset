@@ -13,6 +13,7 @@ Initially in our research-paper-experiments, five-set of datasets, containing 4.
 .<br>
 .<br>
 .<br>
+## Synthetic Urdu Dataset
 --->>> The <b>Given dataset</b> here is <b>most similar to dataset</b> we used in our exmperiments/research with minor differences. The images with its filenames contain annotation in terms of Urdu-text localization coordinates, orientation angle and Ligature-name in Urdu text. <b>So, from  given annotation information, sub-datasets for given tasks</b> like <b>Urdu-Text-detection, Urdu-Text-orientation-prediction</b> and <b>Urdu-Text-ligature-recognition can be easily inferred/constructed</b> and consequently used for training different machine learning algorithms.
 .<br>
 .<br>
