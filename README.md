@@ -23,12 +23,13 @@ Initially In our research-paper-experiments, five-set of datasets, containing 4.
 !<br>
 !<br>
 !<br>
-
-for any queries: syed.yasser.arafat@gmail.com
 <br><br>
 .<br>
 Please cite our dataset as!!
 <br>
 <b>
 Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
-  </b>
+</b>
+<br>
+<br>
+for any queries: syed.yasser.arafat@gmail.com
