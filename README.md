@@ -1,7 +1,7 @@
 # SyntheticUrduDataset
 Synthetic Urdu Dataset for Outdoor Text Detection and Recognition
 
-<img src="SampleImages/21408#_4_608_2_Angle=-39_time_28-Aug-2019-21=22=30_Coors_196_131_96_196__متعلق_" width 200>
+<img src="SampleImages/21408#_4_608_2_Angle=-39_time_28-Aug-2019-21=22=30_Coors_196_131_96_196__متعلق_">
 
 Initially In our research-paper-experiments, five-set of datasets, containing 4.2K and 51K Urdu-text-embedded synthetic images were generated using the CLE annotation text to evaluate different tasks of detection, orientation prediction, and recognition of ligatures. These synthetic images contain 132, and 1600 unique ligatures corresponding to 4.2K and 51K images respectively, with 32 variations of each ligature (4-backgrounds and font 8-color variations). 
 
