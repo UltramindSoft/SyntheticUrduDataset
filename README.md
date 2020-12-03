@@ -31,7 +31,7 @@ Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognitio
 <br>
 <br>
 <div>
-  <p> for any queries: <b > [Syed Yasser Arafat]: <syed.yasser.arafat@gmail.com> </b>
+  <p> for any queries: <b > [Syed Yasser Arafat]: (mailto:syed.yasser.arafat@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<> </b>
  
 </p>
 </div>
