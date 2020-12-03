@@ -31,7 +31,8 @@ Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognitio
 <br>
 <br>
 <div>
-  <p> for any queries: <b > [Syed Yasser Arafat]: (mailto:syed.yasser.arafat@gmail.com?) </b>
+  <p> for any queries: <b > [Syed Yasser Arafat]: <mailto:syed.yasser.arafat@gmail.com> </b>
  
 </p>
 </div>
+syed.yasser.arafat@gmail.com
