@@ -9,6 +9,9 @@ Urdu text is a cursive script and belongs to a non-Latin family of other cursive
 
 
 
+
+
+
 Please cite our dataset as!!
 
 Arafat, Syed Yasser, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
