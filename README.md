@@ -16,7 +16,7 @@ Initially In our research-paper-experiments, five-set of datasets, containing 4.
 --->>> The Given dataset here is most similar to dataset we used in our exmperiments/research with minor differences. The images with its filenames contain annotation in terms of Urdu-text localization coordinates, orientation angle and Ligature-name in Urdu text. <b>So, from  given annotation information, sub-datasets datasets for given tasks</b> like <b>Urdu-Text-detection, Urdu-Text-orientation-prediction</b> and <b>Urdu-Text-ligature-recognition can be constructed</b> and consequently used for training different machine learning algorithms.
 .<br>
 .<br>
---->>> Realworld Urdu outdoor-text dataset "UrText" will be shared soon ...
+--->>> <b>Real-world Urdu</b> outdoor-text dataset <b>"UrText"</b> will be shared soon ...
 
 <br>
 !<br>
