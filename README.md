@@ -23,8 +23,6 @@ Initially In our research-paper-experiments, five-set of datasets, containing 4.
 !<br>
 !<br>
 !<br>
-<br><br>
-.<br>
 Please cite our dataset as!!
 <br>
 <b>
@@ -33,5 +31,5 @@ Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognitio
 <br>
 <br>
 <div>
-<p>for any queries: syed.yasser.arafat@gmail.com </p>
- </div>
+<p> for any queries: syed.yasser.arafat@gmail.com </p>
+</div>
