@@ -1,5 +1,5 @@
 # SyntheticUrduDataset
-Synthetic Urdu Dataset for Outdoor Text Detection and Recognition
+<b>Synthetic Urdu Dataset for Outdoor Text Detection and Recognition</b>
 
 <p>
   <img src="SampleImages/21408.jpg" width=170>
